@@ -1,6 +1,6 @@
 Abschlussprojekt für 2BKI2
 
-#LiveStyle App
+# LiveStyle App
 
 Funktionen:
 - Kalorien tracker
